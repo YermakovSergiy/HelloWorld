@@ -8,13 +8,13 @@
     <title>Hello World Index Page</title>
 
     <!-- Bootstrap -->
-    <link href="${pageContext.request.contextPath}/resources/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet">
+    <link href="resources/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-    <script src="${pageContext.request.contextPath}/resources/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="${pageContext.request.contextPath}/resources/respond/1.4.2/respond.min.js"></script>
+    <script src="resources/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="resources/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
 <body>
@@ -25,8 +25,8 @@
 </div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="${pageContext.request.contextPath}/resources/jquery/1.11.3/jquery.min.js"></script>
+<script src="resources/jquery/2.1.4/jquery-2.1.4.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="${pageContext.request.contextPath}/resources/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="resources/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 </body>
 </html>
